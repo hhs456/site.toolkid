@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 小傢伙寫程室 Toolkid Coding Std.
-email:
+email: hhs456@yahoo.com.tw
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -60,13 +60,12 @@ plugins:
 author:
   name   : "Hanson Huang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio              : "An Unity3D amateur."
-  location         : "Tauyuan City"
-  email            : "hhs456@yahoo.com.tw"
+  bio              : "I’m an amateur content creator who enjoys drawing with CSP and exploring game development using Unity, Godot, and O3DE.\n Feel free to reach out if you're interested in creative projects or collaboration!"
+  location         : "Tauyuan City"  
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://hhs456.webnode.tw/"
+      url: "https://hhs456.github.io/site.toolkid/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -93,7 +92,7 @@ footer:
       url: "https://github.com/hhs456/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      # url: "https://instagram.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/瀚玄-黃-988412164"

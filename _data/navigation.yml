@@ -1,9 +1,9 @@
 main:
-  - title: "貼文"
+  - title: "貼文 POST"
     url: /posts/
-  - title: "目錄"
+  - title: "目錄 CATEGORY"
     url: /categories/
-  - title: "標籤"
+  - title: "標籤 TAG"
     url: /tags/
-  - title: "關於"
+  - title: "關於 ABOUT"
     url: /about/
