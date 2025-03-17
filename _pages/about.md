@@ -3,14 +3,10 @@ permalink: /about/
 title: "About Me"
 ---
 
-> _Had I not seen the Sun_
-
-> _I could have borne the shade_
-
-> _But Light a newer Wilderness_
-
-> _My Wilderness has made_
-
+> _Had I not seen the Sun_  
+> _I could have borne the shade_  
+> _But Light a newer Wilderness_  
+> _My Wilderness has made_  
 > — *Emily Dickinson*  
 
 ## 職業
